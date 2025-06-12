@@ -1,0 +1,20 @@
+Conclusion of the EDA
+
+1.Gender and Survival:
+Women had a significantly higher survival rate than men, likely due to the "women and children first" protocol.
+
+2.Social Class Matters:
+First-class passengers had better survival chances than those in second or third class, indicating that wealth and status played a major role.
+
+3.Age Factor:
+Children and younger passengers were more likely to survive compared to older individuals.
+
+4.Family Influence:
+Passengers traveling with family members had a slightly better chance of survival than those traveling alone.
+
+5.Embarkation and Fare:
+The port of embarkation and the fare amount provided some clues about survival rates, but their impact was less significant than gender or class.
+
+6.Missing Data:
+Certain columns, such as Cabin, contained many missing values and may not be very useful without data cleaning or imputation.
+
